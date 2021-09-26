@@ -3,8 +3,8 @@ I took some Sklearn classifiers and build an algorithm to find the best one for 
 
 How to use:
 Step 1: You put in your dataset (.csv) (You can convert your excel dataset to csv)
-Step 2: You wait
-Step 3: You get the best classifier, parameters and score for your dataset
+Step 2: Wait
+Step 3: Get the best classifier, parameters and score for your dataset
 
 Dataset Format: 
 Independent variables | Dependent variables 
